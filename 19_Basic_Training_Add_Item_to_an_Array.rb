@@ -1,0 +1,13 @@
+# Original code:
+# add the value "codewars" to the already defined websites array
+
+# Instructions:
+  # Add the value "codewars" to the websites array.
+  # After your code executes the websites array should == ["codewars"]
+
+  # The websites array has already been defined for you using the
+  # following code:
+    # websites = []
+
+# My solution:
+  websites << "codewars"
